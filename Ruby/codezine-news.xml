@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../../../../css/rss/feedRss2.xsl" media="screen" type="text/xsl"?>
+
+<rss version="2.0"> 
+  <channel> 
+    <title>CodeZine</title>  
+    <link>http://codezine.jp/</link>  
+    <copyright>Copyright 2007-2008 CodeZine, Shoeisha Co., Ltd. All rights reserved.</copyright>  
+    <language>ja-JP</language>  
+    <pubDate>Tue, 20 Jan 2015 13:34:19 +0900</pubDate>  
+    <description>プログラミングに役立つソースコードが満載な開発者のための実装系Webマガジン</description>  
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://rss.rssad.jp/rss/codezine/new/20/index.xml" type="application/rss+xml"/>  
+    <item> 
+      <title>Facebook AI Research、ディープラーニングに最適化したフレームワーク「Torch」向けモジュールをOSSで公開</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/a0d165b805ff0996b77392e1291735bc?ul=zchToQRChzTHb3e1_fsOhCUV91bksoiS8k0HN3yvl3UPHUDSD8ghcHa_PDTetekEu.17yES</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8433</guid>  
+      <pubDate>Mon, 19 Jan 2015 19:45:00 +0900</pubDate>  
+      <description><![CDATA[<p>　Facebook AI Research（FAIR）は、ディープラーニングに最適化した科学計算フレームワーク「Torch」向けのモジュールを、1月16日（現地時間）にオープンソースで公開した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/a0d165b805ff0996b77392e1291735bc"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>Microsoft製altJS「TypeScript 1.4」がリリース、ECMAScript 6規格への対応も進める</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/474e14650de01d3004f59c043b0d0113?ul=v2zv1zlx0heHOrwXw6BO.oOcjAAw.bRd1b4kj2yuliszszld_db19_qQnXTNefYM_DAAEA6</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8432</guid>  
+      <pubDate>Mon, 19 Jan 2015 14:45:00 +0900</pubDate>  
+      <description><![CDATA[<p>　米Microsoftは、オープンソースのプログラミング言語TypeScriptの最新版として、「TypeScript 1.4」を、1月16日（現地時間）にリリースした。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/474e14650de01d3004f59c043b0d0113"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>速習 Unity 2Dゲーム開発　～第9回　ターゲットキャラクターの表示（前編）</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/1b4d34e2e97c9dfe158334010c7e7d15?ul=gjZAGfO2BXz77b94fR_nhg.sz8Xo2EydyNMLes_43JQiGfzdKcttE.S4UPpEhk9Go9ILlfY</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8395</guid>  
+      <pubDate>Mon, 19 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　前回はゲームの動作で気になる点をいくつか修正しました。キャラクターの表示、左右の移動、ジャンプなどのプレイヤーが操作するキャラクターの基本的な動作が可能になりました。本記事で作成するゲームはプレイヤーキャラクターを操作して、逃げ出したハムスター（ターゲット）を時間内に捕まえるというシンプルなゲームとします。今回は、ターゲットとなるハムスターを表示する処理を実装します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/1b4d34e2e97c9dfe158334010c7e7d15"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>オープンソースのCMS「concrete5」5.7を使ってみよう</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/001375e40a6f531da384e83255ffe12a?ul=IZLCfb.Cz9zTpJumfRb1zXYTmxWHC8daVVJ717GE5IQeOSzaNgLtZGelZJ0ds48nB8xF_cx</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8340</guid>  
+      <pubDate>Mon, 19 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　「concrete5」は、Webサーバー上で、誰でも簡単に、しかも直感的にホームページの運営管理ができる、手軽で画期的なCMS（コンテンツ・マネージメント・システム）です。本記事では基礎的な構成やテーマの作り方、カスタマイズの仕方などを学習します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/001375e40a6f531da384e83255ffe12a"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>JavaScriptプラットフォーム「io.js」の最新版がリリース</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/f7adb99d3ae6228793d9691bbba2fe3e?ul=7DCkQnZHuAbw6qXWuOr9Y3vXA4QmA3MpZ.I5fklDppIdXy6prCwjyj67lao44xVGEHOsJ0Q</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8428</guid>  
+      <pubDate>Fri, 16 Jan 2015 17:40:00 +0900</pubDate>  
+      <description><![CDATA[<p>　io.jsプロジェクトチームは、GoogleのV8ランタイム上で動作するJavaScriptプラットフォームの最新版「io.js 1.0.2」を、1月16日（現地時間）にリリースした。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/f7adb99d3ae6228793d9691bbba2fe3e"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>GitHub社製プログラマブルテキストエディタ「ATOM」の先行リリース版APIを公開</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/7d3ec5db864abc94dca6f19b64bfbb97?ul=Vr3ifJ3xw17hZC3xhGdZiX.KM_i7jkM6sRmULiZQHwqIGwl6JTO9MqrP3o0tzoHZ17Qu9Eb</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8427</guid>  
+      <pubDate>Fri, 16 Jan 2015 15:45:00 +0900</pubDate>  
+      <description><![CDATA[<p>　GitHubは、GitHubサービス上で利用可能なプログラマブルテキストエディタ「ATOM」用APIの安定版「ATOM API 1.0」の、先行リリースを1月15日（現地時間）に公開した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/7d3ec5db864abc94dca6f19b64bfbb97"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>GMOインターネット、バックエンドサービス「GMO mBaaS powered by backendless」のβ版を公開</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/bf9345dafb977f8236ca598a62078c4c?ul=DJ3YqQlTbk5kY6oCIUSweU01N9vCKiKQqlfGdfVV7jhIIdaQPMTEZdMbDnQOcXDrMycw6Dl</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8426</guid>  
+      <pubDate>Fri, 16 Jan 2015 15:38:00 +0900</pubDate>  
+      <description><![CDATA[<p>　GMOインターネットは、アクロディアと共同で、米Backendless Corporationのモバイルバックエンドサービス（mBaaS）「Backendless」を日本国内向けにカスタマイズした、「GMO mBaaS powered by backendless」を開発し、2015年前半を目途に提供を開始する。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/bf9345dafb977f8236ca598a62078c4c"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>Vagrantでアプリケーション開発環境をローカルPCに作ってみよう</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/481fb84bc21c73f8db52c3c5930f0429?ul=FZjwGjJPXMs40V3XBznWcbGCC2iOJokG1a82rkc_B60WXHNGwliHxKYbxROhe4t6l8DLRZu</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8362</guid>  
+      <pubDate>Fri, 16 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載は、SI業界に入ったばかりの新米業務アプリケーション開発者や、SI業界を目指す学生さんを対象とした、インフラ構成管理ツールを使ってコードでインフラを構築するための講座です。また、インフラエンジニア／システムオペレータで、物理環境でのインフラ構築/運用管理は経験があるけど、プログラミングが苦手という方にも読み進めていただけるように、文法などの解説を入れながら説明します。今回は、Vagrantを使って開発チーム内で統一した開発環境を構築する方法について説明します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/481fb84bc21c73f8db52c3c5930f0429"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>モダンアプリケーションのための軽量・高性能プラットフォーム「Vert.x」の概要と導入手順</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/2f319c76dfd43d5bdc5de43e0e398f6f?ul=fvEW1PL6bi72CpVIndhigyUMYJdiulWqqV_UrKEjhHZ3cQkqKBRLAVYqHYeAalTaoEM96oc</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8353</guid>  
+      <pubDate>Fri, 16 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　はじめまして、DMM.comラボのリョウジです。皆さんは「Vert.x」をご存じでしょうか？ よくある紹介としては「JVM版のNode.js」というとこでしょう。DMMでは、Vert.xを一部のアクセス負荷の高い部分に使用することで、スループットの改善を実現しております。本連載では、Vert.xを使用してシンプルなHTTPモジュールを作成し、メッセージパッシングによりJDBCモジュールとの連携を実現するところまでを、紹介していければと考えています。どうぞよろしくお願いします。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/2f319c76dfd43d5bdc5de43e0e398f6f"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>無償で使えるRuby 2.x教材、2015年初夏にベータ公開予定</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/3a050ffeb6800258c71e802fe509b929?ul=mv9p46kB9tT9.kFz6TNYVOB1ipxGsAovQKwv.ofPQd1V3QHvv20fYb9yfz5kehBrl1oeifD</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8423</guid>  
+      <pubDate>Thu, 15 Jan 2015 16:22:00 +0900</pubDate>  
+      <description><![CDATA[<p>　トランスネットとRails技術者認定試験運営委員会は、共同でRuby 2.xの教材を、トランスネットのRuby開発・事例サイトにて無償で公開する。ベータ公開は初夏を予定している。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/3a050ffeb6800258c71e802fe509b929"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>グレープシティ、業務アプリにピボット機能を組み込めるスイート製品「ComponentOne Studio 2014J v3」を発売</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/fc087926fe4a35afd6fff79d687c233f?ul=K23.hN3g92BbisxPdBkaZVw1DDv0mPYH_thJKOsnG82QVnbHG9xFm0VupI.4LNoGeDt3j06</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8422</guid>  
+      <pubDate>Thu, 15 Jan 2015 16:19:00 +0900</pubDate>  
+      <description><![CDATA[<p>　グレープシティは、業務アプリケーション開発に便利なコンポーネントを多数収録したスイート製品「ComponentOne Studio 2014J v3」を、1月15日に発売した。初回費用は「ComponentOne Studio Enterprise」の1ユーザーライセンス162000円で、1年単位の更新費用は初回費用の40％にあたる64800円。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/fc087926fe4a35afd6fff79d687c233f"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>にゃんこなサンプルコードで学ぶSwiftのクラスとメソッド</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/5185cfe2c00362375752e42d41c037a1?ul=oBSyzq0mucvty8_9_A02lA5pWC.VrrmxieEc6EHE2FZoMRGx2P3ELba4jif1QU69XwXmhmI</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8361</guid>  
+      <pubDate>Thu, 15 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載では、Objective-Cの基本的なプログラムが出来る読者を対象に、Swiftを使ってアプリを開発する際の基本的な事柄を解説します。Objective-CもSwiftもC言語を母体としたプログラム言語なので両者に共通する概念は非常に多いです。Objective-CとSwiftとの最低限度の違いを踏まえつつ、Swiftでのアプリ開発にシフトして行けるような内容をサンプルを交えながら解説します。今回は、Swiftでのクラスやメソッドの作り方／使い方について説明します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/5185cfe2c00362375752e42d41c037a1"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>お手軽データバインディングライブラリ「Vue.js」を使いこなそう（基礎編）</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/f9f6ea4bef38e9a5ca8f9bfdafb9ae05?ul=_qgna_JmC6RT3OvMBwVDQuMQXh6WZ3QHFuzpckGMVG8rdiNHwQSgRNi2NfQ.mWkUr7o_cWf</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8363</guid>  
+      <pubDate>Wed, 14 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載はLINEのフロントエンドエンジニアのチームがWeb開発において注目・活用している技術を紹介します。連載第1弾として、JavaScriptのデータバインディング（MVVM）ライブラリである「Vue.js」について紹介します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/f9f6ea4bef38e9a5ca8f9bfdafb9ae05"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>状態遷移図／表、すなわち設計をコードでテストする</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/967f46dae90f2c3d4088d047e0ff6c24?ul=b4K.1I.CwtAiXRDMWp_Qo6ZoRXeW0VKlbxehYChUygRIR7JlQgeVijWTf.dAvSogcXQivqq</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8359</guid>  
+      <pubDate>Wed, 14 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　昔々に書いたコード（とその覚え書き）が役に立つことは少なくないもので、3年以上前のアーティクル:『状態遷移表からStateパターンを自動生成する』で紹介した、T4-templateを用いて状態遷移表からC#／C++のひな型コードを吐くってネタが使える案件が降ってきました。とはいえ今回、吐かせたいひな型はCとのこと……まぁ、キモは同じだからなんとかなるっしょ。新たな試みとして、生成されたひな型を使って状態遷移図／表すなわち"設計"をテストします。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/967f46dae90f2c3d4088d047e0ff6c24"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>デザインサンプルで学ぶCSSによるスタイリング～「テキスト（マルチカラム）」編</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/05a9c47c8417b0b9327057b3eea6ebc2?ul=RoBw.0l10LPnCK2ruf3otf7KGql2aMzoBRkjEQQjTIB8UJ_oftT0B75aHizhks_3keaohTE</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8349</guid>  
+      <pubDate>Tue, 13 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本連載では、Webページをデザインする際、具体的にどのようにコーディングすれば良いのか分からない人のために、見出しやリスト、フォームなど、Webページを構成する部品のデザインサンプルを紹介し、CSSによるスタイリング方法を解説します。最終回となる今回は、CSS3で追加されたマルチカラムの機能を利用して、段組みレイアウトを簡単に実装する方法を紹介します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/05a9c47c8417b0b9327057b3eea6ebc2"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>「正規表現と繰り返し」　～マンガでプログラミング用語解説</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/52afeb231011d5b959969f57949c3c64?ul=U3D.YXd8DsUz7FcJS6CyzYTVeFiAHx2HdEI2f5ZjoThN1h5H_u53Mg15LCB9zQB8b9gprZb</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8308</guid>  
+      <pubDate>Tue, 13 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、正規表現における「繰り返し」の表現方法です。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/52afeb231011d5b959969f57949c3c64"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>Amazon、AWSで新たにC4インスタンスの提供を開始、EC2でもっとも高い性能をを提供するように設計</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/c3d482e4ce85c658abff673c554ee11c?ul=_x4A.5lVN2HxE1QtTRzku60v7DjVvgvCRmVlIDAfHEeen8LCbA5owQ26JolULgE4dfjakKh</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8420</guid>  
+      <pubDate>Tue, 13 Jan 2015 13:40:00 +0900</pubDate>  
+      <description><![CDATA[<p>　米Amazonは、Amazon Web Services（AWS）において、新たなEC2（Elastic Compute Cloud）インスタンスタイプであるC4の提供を、1月12日（現地時間）に開始した。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/c3d482e4ce85c658abff673c554ee11c"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>技術書の執筆者が本を選ぶ、著者選書フェアを東京都内3書店にて開催、『達人に学ぶ SQL徹底指南書』でおなじみ #ミック本フェア など</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/4e45e1a2e22687ec1d5a85d7215991ee?ul=OYRSgAyMkdyGvQgCXtdbs02HTWk3JJqJA2iCD7RiW4mw40JJyz4rk7XaSBCnVIisZ9YtCf4</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8419</guid>  
+      <pubDate>Tue, 13 Jan 2015 13:15:00 +0900</pubDate>  
+      <description><![CDATA[<p>　紀伊國屋書店新宿南店、八重洲ブックセンター本店、丸善丸の内本店では、CodeZine Books『達人に学ぶ SQL徹底指南書』著者ミック氏など技術書の著者がおすすめ本を選ぶ、「著者選書フェア」を開催中です。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/4e45e1a2e22687ec1d5a85d7215991ee"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>EclipseでGoプログラミング！ GoClipseのインストールとGojiフレームワークを使ったWeb APIの作成</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/46621631b03c9f5ab1436719c33b19a5?ul=mScIZ5_Nn4Ihsr.f5K4HuyP8vY3u.uwTeTe.pvCu0DddvB3ToMfRZUtW3q3Az3rN668LY6z</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8374</guid>  
+      <pubDate>Fri, 09 Jan 2015 14:00:00 +0900</pubDate>  
+      <description><![CDATA[<p>　本稿では「Go言語」と、そのWebフレームワークである「Goji」を利用したシンプルなWeb APIアプリケーションの作り方について解説します。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/46621631b03c9f5ab1436719c33b19a5"/></p>]]></description> 
+    </item>  
+    <item> 
+      <title>開発者も聞いておきたい！ 「UIデザイナー不要説について語る」イベントで飛び出したデザイナーの本音</title>  
+      <link>http://rss.rssad.jp/rss/artclk/DlzMEkU2485N/21fb5a87d9476dc915be1289084d274d?ul=QCGJERdYoFtIl4Ud.4gxdC3AMV1etN2.E1TZpPveOZMnktq.wi5gq7p4GJKRziaxdFjlF8O</link>  
+      <guid isPermaLink="true">http://codezine.jp/article/detail/8394</guid>  
+      <pubDate>Fri, 09 Jan 2015 13:55:00 +0900</pubDate>  
+      <description><![CDATA[<p>　2014年11月27日、UIデザイナーを対象とするトークイベント「UI Crunch #2」が、株式会社ディー・エヌ・エー社内のサクラカフェで開催された。本稿では会場で繰り広げられた、現場で活躍するUIデザイナーによるセッションやパネルディスカッションの模様をレポートする。
+
+
+<img border="0" width="1" height="1" src="http://rss.rssad.jp/rss/artimg/DlzMEkU2485N/21fb5a87d9476dc915be1289084d274d"/></p>]]></description> 
+    </item> 
+  </channel> 
+</rss>
