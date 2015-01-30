@@ -4,7 +4,7 @@
 ### 項目9 Rubyの最悪に紛らわしい構文に注意しよう
 - メソッド名の末尾に`=`をつけると、そのメソッドはセッターメソッドになる。
   （インスタンス変数に外部からアクセスすることを許すために、セッターメソッドを用意する。）
-- ゲッターとセッターの実装を、Rubyでは`[attr_accessor](http://ref.xaio.jp/ruby/classes/module/attr_accessor)`というヘルパーメソッドが担っている。
+- ゲッターとセッターの実装を、Rubyでは[attr_accessor](http://ref.xaio.jp/ruby/classes/module/attr_accessor)というヘルパーメソッドが担っている。
 - 変数を作るのではなく、セッターメソッドを呼び出したいときはレシーバselfが必要。レシーバがないと、ただの変数になってしまう。
 
 ### 項目10 構造化データの表現にはHashではなくStructを使おう
@@ -34,7 +34,7 @@ style = Notebooks::Binding.new
 - `equal?`は同じオブジェクトidを持つかどうか
 - `eql?`はハッシュの内部で同じキーかどうか
 - `==`はオブジェクトの内容が同じかどうか
-- `===`はcase文でwhenに与えられたオブジェクトと比較するのに使ったり`\正規表現\ === "文字列"`とか
+- `===`はcase文でwhenに与えられたオブジェクトと比較するのに使ったり`/正規表現/ === "文字列"`とか
 
 ### 項目13 "<=>"とComparableモジュールで比較を実装しよう
 - [Conparableモジュール](http://docs.ruby-lang.org/ja/2.2.0/class/Comparable.html)
