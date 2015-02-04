@@ -38,7 +38,8 @@ style = Notebooks::Binding.new
 
 ### 項目13 "<=>"とComparableモジュールで比較を実装しよう
 - [Conparableモジュール](http://docs.ruby-lang.org/ja/2.2.0/class/Comparable.html)
-- 覚えておくべきことの項目がわからない
+- 憶えておくべきこと？？
+
 > クラスのために"<=>"を実装した場合、特にインスタンスをハッシュキーとして使うつもりなら、eql?を"="の別名にすることを検討しよう。別名にする場合には、hashメソッドもオーバーライドしなければならない。
 
 ### 項目14 protectedメソッドを使ってプライベートな状態を共有しよう
@@ -54,5 +55,62 @@ style = Notebooks::Binding.new
 
 ### 項目16 コレクションを書き換える前に引数として渡すコレクションのコピーを作っておこう
 - メソッド引数は値渡しではなく参照渡しである。
+- `clone`より`dup`をつかったほうがいい。
 
 ### 項目17 nil、スカラーオブジェクトを配列に変換するには、Arrayメソッドを使おう
+- `*`とは？明示的？
+- KernelのArrayメソッドについて
+```ruby
+> class Test
+*   def to_ary
+*     [1,2]
+*   end  
+*   def to_a
+*     [3,4]
+*   end  
+* end  
+=> :to_a
+
+> t = Test.new
+=> #<Pry::Test:0x007f998dc15038>
+
+> a, b = t
+=> #<Pry::Test:0x007f998dc15038>
+
+> d, e = *t
+=> [3, 4]
+
+> puts a, b
+1
+2
+=> nil
+
+> puts d, e
+3
+4
+=> nil
+
+> t = Test.new
+=> #<Pry::Test:0x007f998db246b0>
+
+> a, b = t
+=> #<Pry::Test:0x007f998db246b0>
+
+)> d, e = t
+=> #<Pry::Test:0x007f998db246b0>
+
+)> puts a, b
+1
+2
+=> nil
+
+)> puts d, e
+1
+2
+=> nil
+```
+- [スカラーオブジェクト？？？](http://docs.ruby-lang.org/ja/2.2.0/class/Psych=3a=3aNodes=3a=3aScalar.html)
+
+
+### 項目18 要素が含まれているかどうかの処理を効率よく行うために集合を使うことを検討しよう
+
