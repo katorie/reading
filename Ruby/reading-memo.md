@@ -77,5 +77,6 @@ var = exp1 || exp2
 - アクセサメソッド
 
 ### 1-2 メソッドの作成
-- public, private, protected 
-- 
+- public, private, protected
+- privateは同じオブジェクト内のメソッドからしか呼び出せない。
+- protectedは同じクラス内であれば別オブジェクトから呼び出せる。
