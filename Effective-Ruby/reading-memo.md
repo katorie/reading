@@ -45,9 +45,9 @@ style = Notebooks::Binding.new
 ### 項目14 protectedメソッドを使ってプライベートな状態を共有しよう
 - [カプセル化](http://www.minituku.net/courses/566428009/lessons/902584744/texts/943220687?locale=ja)
 - [protectedメソッド](http://ref.xaio.jp/ruby/classes/module/protected)
-- [privateとprotected](http://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e)
 
 ### 項目15 クラス変数よりもクラスインスタンス変数を使うようにしよう
+- [リファレンスマニュアル](http://docs.ruby-lang.org/ja/2.1.0/doc/spec=2fvariables.html#instance)
 - [クラス変数とクラスインスタンス変数の違い](http://simanman.hatenablog.com/entry/2013/03/11/210756)
 
 
