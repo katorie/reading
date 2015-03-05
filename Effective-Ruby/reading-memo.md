@@ -58,59 +58,14 @@ style = Notebooks::Binding.new
 - `clone`より`dup`をつかったほうがいい。
 
 ### 項目17 nil、スカラーオブジェクトを配列に変換するには、Arrayメソッドを使おう
-- `*`とは？明示的？
-- KernelのArrayメソッドについて
-```ruby
-> class Test
-*   def to_ary
-*     [1,2]
-*   end  
-*   def to_a
-*     [3,4]
-*   end  
-* end  
-=> :to_a
-
-> t = Test.new
-=> #<Pry::Test:0x007f998dc15038>
-
-> a, b = t
-=> #<Pry::Test:0x007f998dc15038>
-
-> d, e = *t
-=> [3, 4]
-
-> puts a, b
-1
-2
-=> nil
-
-> puts d, e
-3
-4
-=> nil
-
-> t = Test.new
-=> #<Pry::Test:0x007f998db246b0>
-
-> a, b = t
-=> #<Pry::Test:0x007f998db246b0>
-
-)> d, e = t
-=> #<Pry::Test:0x007f998db246b0>
-
-)> puts a, b
-1
-2
-=> nil
-
-)> puts d, e
-1
-2
-=> nil
-```
+- `*`
+- Arrayの引数ハッシュを渡すと、ネストされた配列になってしまう
 - [スカラーオブジェクト？？？](http://docs.ruby-lang.org/ja/2.2.0/class/Psych=3a=3aNodes=3a=3aScalar.html)
 
 
 ### 項目18 要素が含まれているかどうかの処理を効率よく行うために集合を使うことを検討しよう
+- 要素が含まれているかどうかの高速チェックには`Set`
+- 67ページ何を言っているのかわからない
 
+
+### 項目19 reduceを使ってコレクションを畳み込む方法を身に付けよう
